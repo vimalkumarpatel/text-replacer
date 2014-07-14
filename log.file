@@ -1,0 +1,1 @@
+e,06/15/2014 17camidTier:39:05...xxcamidTier...CAMIDTIER,Od request failed,ScamidTierrcFile="odclient.cpp" SrcFunc="FunctionalFramework::OdClient::AttemptSendRequest" SrcLine="56" Pid="5092" Tid="9440" TS="0x01CF709F3DD2B1BB" String1="Failed to build request url."
